@@ -1,0 +1,31 @@
+{
+    "documents": [
+        {
+            "id": "id__17431",
+            "sentiment": "neutral",
+            "confidenceScores": {
+                "positive": 0.03,
+                "neutral": 0.6,
+                "negative": 0.38
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.6,
+                        "negative": 0.38
+                    },
+                    "offset": 0,
+                    "length": 49,
+                    "text": "Eu não vou a festa hoje, pois peguei um resfriado",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}

@@ -1,0 +1,31 @@
+{
+    "documents": [
+        {
+            "id": "id__17064",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.82,
+                "neutral": 0.17,
+                "negative": 0.01
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.82,
+                        "neutral": 0.17,
+                        "negative": 0.01
+                    },
+                    "offset": 0,
+                    "length": 63,
+                    "text": "Amanhã vai ser um dia especial, vou comemorar o meu aniversário",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}

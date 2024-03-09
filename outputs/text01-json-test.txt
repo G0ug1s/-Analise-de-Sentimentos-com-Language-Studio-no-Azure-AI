@@ -1,0 +1,60 @@
+{
+    documents [
+        {
+            id id__16854,
+            sentiment positive,
+            confidenceScores {
+                positive 0.99,
+                neutral 0,
+                negative 0.01
+            },
+            sentences [
+                {
+                    sentiment positive,
+                    confidenceScores {
+                        positive 0.99,
+                        neutral 0,
+                        negative 0.01
+                    },
+                    offset 0,
+                    length 71,
+                    text Este bolo está muito bom, porém acho que faltou um pouco mais de açúcar,
+                    targets [
+                        {
+                            sentiment positive,
+                            confidenceScores {
+                                positive 1,
+                                negative 0
+                            },
+                            offset 5,
+                            length 4,
+                            text bolo,
+                            relations [
+                                {
+                                    relationType assessment,
+                                    ref #documents0sentences0assessments0
+                                }
+                            ]
+                        }
+                    ],
+                    assessments [
+                        {
+                            sentiment positive,
+                            confidenceScores {
+                                positive 1,
+                                negative 0
+                            },
+                            offset 21,
+                            length 3,
+                            text bom,
+                            isNegated false
+                        }
+                    ]
+                }
+            ],
+            warnings []
+        }
+    ],
+    errors [],
+    modelVersion 2022-11-01
+}
