@@ -1,0 +1,9 @@
+teste 01 - "Este bolo está muito bom, porém acho que faltou um pouco mais de açúcar"
+
+teste 02 - "Amanhã vai ser um dia especial, vou comemorar o meu aniversário"
+
+teste 03 - "Aquele restaurante é maravilhoso, os pratos e o serviço são exelentes"
+
+teste 04 - "Eu não vou a festa hoje, pois peguei um resfriado"
+
+teste 05 - "A viagem foi péssima, mal pude aproveitar a paisagem"
